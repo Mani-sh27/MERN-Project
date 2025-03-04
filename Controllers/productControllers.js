@@ -1,53 +1,68 @@
-import {v2 as cloudinary} from 'cloudinary'
+import { v2 as cloudinary } from 'cloudinary';
 import productModel from '../Models/productModel.js';
-// function for add product
-const addProduct = async (req , res) =>{
-try {
-    const {name, description, price, category, subCategory, sizes, bestseller} = req.body
-    const image1 = req.files.image1[0]  
-    const image2 = req.files.image2[0]
-    const image3 = req.files.image3[0]
-    const image4 = req.files.image4[0]
-    const images = [image1, image2, image3, image4].filter((item)=>item !==undefined)
-    let imageUrl = await Promise.all(
-        images.map(async(item)=>{   
-          let result =await cloudinary.uploader.upload(item.path,{resource_type:'image'});
-          return result.secure_url
-        })
-    )
-    const  productData = {
-      name, 
+
+// Function for adding a product
+const addProduct = async (req, res) => {
+  try {
+    const { name, description, price, category, subCategory, sizes, bestseller } = req.body;
+
+    // Safely retrieve image files from req.files for keys image1, image2, image3, image4
+    const imageFiles = ['image1', 'image2', 'image3', 'image4']
+      .map(key => req.files[key] && req.files[key][0])
+      .filter(file => file !== undefined);
+
+    // Upload images to Cloudinary and get URLs
+    const imageUrl = await Promise.all(
+      imageFiles.map(async (item) => {
+        const result = await cloudinary.uploader.upload(item.path, { resource_type: 'image' });
+        return result.secure_url;
+      })
+    );
+
+    // Build product data; parse sizes if it's a string
+    const productData = {
+      name,
       description,
       category,
-      price:Number(price),
+      price: Number(price),
       subCategory,
-      bestseller:bestseller === "true" ? true : false,
-      sizes: JSON.parse(sizes),
+      bestseller: bestseller === "true",
+      sizes: typeof sizes === 'string' ? JSON.parse(sizes) : sizes,
       image: imageUrl,
-      date:Date.now()
-    }
-    console.log(productData);
-    const product =new productModel(productData);
-    await product.save()
-    res.json({success:true,message:"product Added"})
-    console.log(name,description , price , category, subCategory, sizes, bestseller ) =req.body
-    console.log(imageUrl)   
-    res.json({success:false, message:error.message})
-} catch (error) {
-    
-}
-}
-// function for list product 
-const listProducts = async (req, res) =>{
-     
-}
-// function for removing products
-const removeProduct = async (req ,res)  =>{
+      date: Date.now(),
+    };
 
-}
+    console.log('Product data:', productData);
 
-// function for singal product info
-const singleProduct = async (req,res) =>{
+    // Save the product
+    const product = new productModel(productData);
+    await product.save();
 
-}
-export  {listProducts,addProduct,removeProduct,singleProduct}; 
+    // Log request body details and image URLs for debugging
+    console.log({ name, description, price, category, subCategory, sizes, bestseller });
+    console.log('Uploaded image URLs:', imageUrl);
+
+    // Send a successful response
+    res.json({ success: true, message: "Product added" });
+  } catch (error) {
+    console.error("Error adding product:", error);
+    res.status(500).json({ success: false, message: error.message });
+  }
+};
+
+// Function for listing products
+const listProducts = async (req, res) => {
+  // Implementation here...
+};
+
+// Function for removing a product
+const removeProduct = async (req, res) => {
+  // Implementation here...
+};
+
+// Function for retrieving single product info
+const singleProduct = async (req, res) => {
+  // Implementation here...
+};
+
+export { listProducts, addProduct, removeProduct, singleProduct };
