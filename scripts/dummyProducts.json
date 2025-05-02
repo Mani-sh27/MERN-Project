@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Elegant Marble Cheese",
+    "description": "New silver Ball with ergonomic design for tricky comfort",
+    "price": 383.6,
+    "image": "https://picsum.photos/seed/F9aWkQZs/2546/1444?blur=4",
+    "category": "Health",
+    "countInStock": 41
+  },
+  {
+    "name": "Bespoke Silk Pants",
+    "description": "Featuring Rhenium-enhanced technology, our Gloves offers unparalleled untried performance",
+    "price": 186.09,
+    "image": "https://picsum.photos/seed/bZSpkDZ/1708/3041?grayscale",
+    "category": "Industrial",
+    "countInStock": 5
+  },
+  {
+    "name": "Luxurious Bamboo Pants",
+    "description": "Our tangy-inspired Mouse brings a taste of luxury to your dapper lifestyle",
+    "price": 415.45,
+    "image": "https://picsum.photos/seed/3D0TYC3/1459/277?grayscale&blur=5",
+    "category": "Sports",
+    "countInStock": 97
+  },
+  {
+    "name": "Luxurious Cotton Computer",
+    "description": "The sleek and muted Tuna comes with mint green LED lighting for smart functionality",
+    "price": 431.69,
+    "image": "https://picsum.photos/seed/98W09C8G/2877/1601?grayscale&blur=8",
+    "category": "Beauty",
+    "countInStock": 99
+  },
+  {
+    "name": "Licensed Silk Pants",
+    "description": "Experience the silver brilliance of our Shirt, perfect for rough environments",
+    "price": 18.45,
+    "image": "https://picsum.photos/seed/U7SPnv5/3473/1901?grayscale&blur=5",
+    "category": "Baby",
+    "countInStock": 50
+  },
+  {
+    "name": "Refined Bronze Shoes",
+    "description": "The sleek and those Pizza comes with black LED lighting for smart functionality",
+    "price": 156.89,
+    "image": "https://picsum.photos/seed/Rpuy1N/1637/1118?grayscale&blur=6",
+    "category": "Kids",
+    "countInStock": 47
+  },
+  {
+    "name": "Unbranded Rubber Cheese",
+    "description": "Ergonomic Salad made with Cotton for all-day sorrowful support",
+    "price": 703.19,
+    "image": "https://picsum.photos/seed/jVCsdW2s/2951/3277?blur=6",
+    "category": "Health",
+    "countInStock": 4
+  },
+  {
+    "name": "Oriental Ceramic Towels",
+    "description": "Savor the sweet essence in our Bike, designed for compassionate culinary adventures",
+    "price": 538.19,
+    "image": "https://picsum.photos/seed/2Mi3N/3675/2959?grayscale&blur=8",
+    "category": "Garden",
+    "countInStock": 10
+  },
+  {
+    "name": "Licensed Gold Mouse",
+    "description": "The sleek and enchanted Chicken comes with orange LED lighting for smart functionality",
+    "price": 674.59,
+    "image": "https://picsum.photos/seed/yXQkc82/215/555?grayscale&blur=1",
+    "category": "Automotive",
+    "countInStock": 50
+  },
+  {
+    "name": "Tasty Gold Sausages",
+    "description": "Our dog-friendly Chicken ensures corrupt comfort for your pets",
+    "price": 662.49,
+    "image": "https://picsum.photos/seed/4vvAEICI4I/3194/3884?grayscale&blur=3",
+    "category": "Computers",
+    "countInStock": 52
+  },
+  {
+    "name": "Licensed Steel Bike",
+    "description": "Innovative Bacon featuring rubbery technology and Steel construction",
+    "price": 497.99,
+    "image": "https://picsum.photos/seed/ThtdmKaUM/2710/2201?blur=10",
+    "category": "Outdoors",
+    "countInStock": 33
+  },
+  {
+    "name": "Fantastic Metal Towels",
+    "description": "Ergonomic Pizza made with Wooden for all-day decisive support",
+    "price": 177.99,
+    "image": "https://picsum.photos/seed/zva1hey3K/3079/3928?grayscale&blur=1",
+    "category": "Automotive",
+    "countInStock": 71
+  },
+  {
+    "name": "Practical Steel Chips",
+    "description": "Refined Salad designed with Aluminum for heavenly performance",
+    "price": 775.99,
+    "image": "https://picsum.photos/seed/ntZFNu/75/1374?blur=1",
+    "category": "Electronics",
+    "countInStock": 58
+  },
+  {
+    "name": "Licensed Bamboo Shoes",
+    "description": "Experience the lavender brilliance of our Hat, perfect for superficial environments",
+    "price": 129.25,
+    "image": "https://picsum.photos/seed/zGFNu9eG/308/661?blur=8",
+    "category": "Garden",
+    "countInStock": 9
+  },
+  {
+    "name": "Unbranded Plastic Salad",
+    "description": "Introducing the Sierra Leone-inspired Hat, blending obedient style with local craftsmanship",
+    "price": 505.03,
+    "image": "https://picsum.photos/seed/WHJkegy/1578/1045?blur=5",
+    "category": "Sports",
+    "countInStock": 96
+  },
+  {
+    "name": "Unbranded Wooden Shirt",
+    "description": "Goldner Group's most advanced Chips technology increases darling capabilities",
+    "price": 176.35,
+    "image": "https://picsum.photos/seed/Eo4Y5fnet/2210/2807?blur=2",
+    "category": "Outdoors",
+    "countInStock": 35
+  },
+  {
+    "name": "Fresh Cotton Table",
+    "description": "The sleek and forsaken Salad comes with lime LED lighting for smart functionality",
+    "price": 701.79,
+    "image": "https://picsum.photos/seed/pDfzcWx8/3913/2260?blur=1",
+    "category": "Movies",
+    "countInStock": 36
+  },
+  {
+    "name": "Intelligent Granite Towels",
+    "description": "Discover the cow-like agility of our Shirt, perfect for rundown users",
+    "price": 849.05,
+    "image": "https://picsum.photos/seed/pho6NoGlX/3228/2426?blur=5",
+    "category": "Music",
+    "countInStock": 15
+  },
+  {
+    "name": "Generic Aluminum Bacon",
+    "description": "Savor the moist essence in our Pants, designed for grown culinary adventures",
+    "price": 373.89,
+    "image": "https://picsum.photos/seed/BydZWqyb/2265/2032?grayscale&blur=1",
+    "category": "Books",
+    "countInStock": 93
+  },
+  {
+    "name": "Unbranded Ceramic Chicken",
+    "description": "Professional-grade Shirt perfect for fantastic training and recreational use",
+    "price": 847.75,
+    "image": "https://picsum.photos/seed/yXJvv/2669/2007?blur=10",
+    "category": "Electronics",
+    "countInStock": 75
+  },
+  {
+    "name": "Fantastic Metal Gloves",
+    "description": "Innovative Gloves featuring stingy technology and Gold construction",
+    "price": 613.04,
+    "image": "https://picsum.photos/seed/s7v1h99/1380/104?blur=5",
+    "category": "Tools",
+    "countInStock": 22
+  },
+  {
+    "name": "Licensed Ceramic Shirt",
+    "description": "New Bacon model with 86 GB RAM, 10 GB storage, and mundane features",
+    "price": 176.59,
+    "image": "https://picsum.photos/seed/3qSU1/2973/644",
+    "category": "Tools",
+    "countInStock": 2
+  },
+  {
+    "name": "Elegant Plastic Pants",
+    "description": "Discover the panda-like agility of our Pizza, perfect for charming users",
+    "price": 487.59,
+    "image": "https://picsum.photos/seed/BQnRFG0/3987/1857?grayscale&blur=2",
+    "category": "Kids",
+    "countInStock": 5
+  },
+  {
+    "name": "Fantastic Ceramic Cheese",
+    "description": "Stylish Salad designed to make you stand out with alienated looks",
+    "price": 983.19,
+    "image": "https://picsum.photos/seed/VyLeuarn/3211/2856?grayscale&blur=5",
+    "category": "Health",
+    "countInStock": 91
+  },
+  {
+    "name": "Sleek Aluminum Fish",
+    "description": "New sky blue Mouse with ergonomic design for difficult comfort",
+    "price": 292.81,
+    "image": "https://picsum.photos/seed/8xQ2c/1048/1990?grayscale&blur=6",
+    "category": "Games",
+    "countInStock": 58
+  },
+  {
+    "name": "Incredible Marble Tuna",
+    "description": "Introducing the Bosnia and Herzegovina-inspired Sausages, blending devoted style with local craftsmanship",
+    "price": 643.7,
+    "image": "https://picsum.photos/seed/Zsq9Jec/350/3606?grayscale&blur=3",
+    "category": "Music",
+    "countInStock": 23
+  },
+  {
+    "name": "Gorgeous Bamboo Hat",
+    "description": "Discover the parrot-like agility of our Shirt, perfect for sarcastic users",
+    "price": 428.79,
+    "image": "https://picsum.photos/seed/kmg8PYeEf/2836/2644?blur=5",
+    "category": "Sports",
+    "countInStock": 96
+  },
+  {
+    "name": "Small Rubber Chips",
+    "description": "The Managed responsive solution Fish offers reliable performance and clear-cut design",
+    "price": 142.35,
+    "image": "https://picsum.photos/seed/bsM2VcFpe/851/702?grayscale&blur=4",
+    "category": "Home",
+    "countInStock": 41
+  },
+  {
+    "name": "Modern Plastic Fish",
+    "description": "The sleek and husky Bacon comes with mint green LED lighting for smart functionality",
+    "price": 913.39,
+    "image": "https://picsum.photos/seed/5cMBYqa/1107/750?grayscale&blur=2",
+    "category": "Grocery",
+    "countInStock": 63
+  },
+  {
+    "name": "Rustic Bamboo Pizza",
+    "description": "Ergonomic Chips made with Cotton for all-day immaculate support",
+    "price": 553.09,
+    "image": "https://picsum.photos/seed/ioDFxN/108/2629?grayscale",
+    "category": "Movies",
+    "countInStock": 82
+  },
+  {
+    "name": "Awesome Wooden Computer",
+    "description": "The sleek and fluffy Pizza comes with silver LED lighting for smart functionality",
+    "price": 704.55,
+    "image": "https://picsum.photos/seed/3fkecU/1040/427?grayscale&blur=9",
+    "category": "Games",
+    "countInStock": 21
+  },
+  {
+    "name": "Incredible Bamboo Bike",
+    "description": "Professional-grade Ball perfect for inborn training and recreational use",
+    "price": 965.49,
+    "image": "https://picsum.photos/seed/v1gb3zTEFR/401/1913?grayscale&blur=4",
+    "category": "Electronics",
+    "countInStock": 12
+  },
+  {
+    "name": "Licensed Bamboo Shoes",
+    "description": "New tan Computer with ergonomic design for troubled comfort",
+    "price": 466.27,
+    "image": "https://picsum.photos/seed/MOdYAAcoq/1476/3924?blur=6",
+    "category": "Clothing",
+    "countInStock": 2
+  },
+  {
+    "name": "Luxurious Silk Car",
+    "description": "Innovative Pants featuring whopping technology and Bronze construction",
+    "price": 933.94,
+    "image": "https://picsum.photos/seed/mnOk5mch/2211/602?grayscale&blur=7",
+    "category": "Automotive",
+    "countInStock": 84
+  },
+  {
+    "name": "Fresh Steel Cheese",
+    "description": "Experience the orange brilliance of our Bacon, perfect for insignificant environments",
+    "price": 866.63,
+    "image": "https://picsum.photos/seed/zCfuwPoMOf/390/3594?grayscale&blur=10",
+    "category": "Shoes",
+    "countInStock": 26
+  },
+  {
+    "name": "Handcrafted Metal Hat",
+    "description": "Our moist-inspired Salad brings a taste of luxury to your colorless lifestyle",
+    "price": 827.89,
+    "image": "https://picsum.photos/seed/Wg0jY3tu6/3561/741?grayscale&blur=5",
+    "category": "Industrial",
+    "countInStock": 12
+  },
+  {
+    "name": "Practical Cotton Soap",
+    "description": "Discover the unwelcome new Shirt with an exciting mix of Aluminum ingredients",
+    "price": 151.99,
+    "image": "https://picsum.photos/seed/oekAArzU9/3797/806?grayscale&blur=10",
+    "category": "Baby",
+    "countInStock": 70
+  },
+  {
+    "name": "Fresh Ceramic Mouse",
+    "description": "The Salvador Table is the latest in a series of impartial products from Nikolaus Inc",
+    "price": 796.89,
+    "image": "https://picsum.photos/seed/Wtu6QilLc/3291/3163?grayscale&blur=6",
+    "category": "Sports",
+    "countInStock": 100
+  },
+  {
+    "name": "Ergonomic Rubber Bike",
+    "description": "Ergonomic Chair made with Concrete for all-day trusting support",
+    "price": 80.74,
+    "image": "https://picsum.photos/seed/Omiurvn/3900/614?grayscale",
+    "category": "Grocery",
+    "countInStock": 75
+  },
+  {
+    "name": "Modern Steel Pants",
+    "description": "New orange Hat with ergonomic design for grumpy comfort",
+    "price": 236.6,
+    "image": "https://picsum.photos/seed/VPDI2B/3613/3667?grayscale&blur=5",
+    "category": "Clothing",
+    "countInStock": 12
+  },
+  {
+    "name": "Bespoke Granite Salad",
+    "description": "Discover the sea lion-like agility of our Mouse, perfect for live users",
+    "price": 245.25,
+    "image": "https://picsum.photos/seed/Ga73m6/988/101?grayscale&blur=7",
+    "category": "Health",
+    "countInStock": 79
+  },
+  {
+    "name": "Awesome Concrete Chicken",
+    "description": "Discover the nutritious new Chair with an exciting mix of Cotton ingredients",
+    "price": 950.5,
+    "image": "https://picsum.photos/seed/fu0xULk2P/1688/3442?blur=4",
+    "category": "Grocery",
+    "countInStock": 71
+  },
+  {
+    "name": "Elegant Bamboo Mouse",
+    "description": "Featuring Strontium-enhanced technology, our Towels offers unparalleled wicked performance",
+    "price": 336.17,
+    "image": "https://picsum.photos/seed/6linPLnt/1185/3142?grayscale&blur=8",
+    "category": "Electronics",
+    "countInStock": 4
+  },
+  {
+    "name": "Luxurious Metal Chair",
+    "description": "Our savory-inspired Hat brings a taste of luxury to your intelligent lifestyle",
+    "price": 403.09,
+    "image": "https://picsum.photos/seed/qS8aCoynN/2201/3649?blur=7",
+    "category": "Games",
+    "countInStock": 35
+  },
+  {
+    "name": "Licensed Aluminum Chair",
+    "description": "Introducing the Egypt-inspired Tuna, blending svelte style with local craftsmanship",
+    "price": 591.49,
+    "image": "https://picsum.photos/seed/NpqnNVaZcI/2244/538?grayscale&blur=6",
+    "category": "Beauty",
+    "countInStock": 27
+  },
+  {
+    "name": "Elegant Ceramic Pizza",
+    "description": "Introducing the French Southern Territories-inspired Bike, blending kosher style with local craftsmanship",
+    "price": 591.29,
+    "image": "https://picsum.photos/seed/yFn0Cv/1197/102",
+    "category": "Movies",
+    "countInStock": 79
+  },
+  {
+    "name": "Awesome Bamboo Shirt",
+    "description": "Discover the blaring new Chicken with an exciting mix of Ceramic ingredients",
+    "price": 559.05,
+    "image": "https://picsum.photos/seed/jy6sSk7N/1642/1982?blur=4",
+    "category": "Sports",
+    "countInStock": 100
+  },
+  {
+    "name": "Handmade Plastic Tuna",
+    "description": "Savor the salty essence in our Soap, designed for free culinary adventures",
+    "price": 963.97,
+    "image": "https://picsum.photos/seed/bCkmoN/3722/2475?blur=10",
+    "category": "Music",
+    "countInStock": 40
+  },
+  { 
+    "name": "Oriental Concrete Cheese",
+    "description": "Discover the bruised new Soap with an exciting mix of Silk ingredients",
+    "price": 708.55,
+    "image": "https://picsum.photos/seed/GPedtIFCqT/604/2820?blur=4",
+    "category": "Jewelry",
+    "countInStock": 65
+  },
+  {
+    "name": "Generic Gold Gloves",      
+    "description": "Our giraffe-friendly Salad ensures talkative comfort for your pets",
+    "price": 304.69,                                
+    "image": "https://picsum.photos/seed/3UcoG/3641/352?grayscale&blur=8",
+    "category": "Tools",
+    "countInStock": 55
+  }
+]

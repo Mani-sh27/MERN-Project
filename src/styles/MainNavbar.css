@@ -1,0 +1,7 @@
+.hover-dropdown:hover .dropdown-menu {
+  display: block;
+}
+.container{
+  width:95%;
+  margin:auto;
+}
